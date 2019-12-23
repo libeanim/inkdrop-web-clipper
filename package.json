@@ -15,7 +15,9 @@
   "engines": {
     "inkdrop": "^4.x"
   },
-  "dependencies": {},
+  "dependencies": {
+    "core-js": "^2.6.11"
+  },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
     "eslint": "^6.1.0",
