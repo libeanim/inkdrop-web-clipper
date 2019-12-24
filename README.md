@@ -8,3 +8,8 @@ It uses [Readability.js](https://github.com/mozilla/readability/) to extract the
 ## Usage
 
 Select `Plugins` > `Clip Web Page...` from the menu bar, or press (default) `Ctrl+Alt+C`.
+
+## Acknowledgement
+
+This is a fork from charygao web-clipper version.
+It has been modified to work with inkdrop 4 and more features have been added.
